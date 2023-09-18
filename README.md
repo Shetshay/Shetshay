@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrew Attia Ibrahim</h1>
 <h3 align="center">A passionate cybersecurity enthusiast from USA</h3>
-<img align="right" alt="Coding" width="400" src="89j8.gif" loop autoplay>
+<img align="right" alt="Coding" width="400" src="![89j8](https://github.com/Shetshay/Shetshay/assets/90472195/0879f2a9-6748-42c2-9f7f-2c200b8d3b42)" loop autoplay>
+
+
 
 - 🔭 I’m currently working on [Encrypto-Pass](https://github.com/Shetshay/Encrypto-Pass)
 
