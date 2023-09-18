@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andrew Attia Ibrahim</h1>
 <h3 align="center">A passionate cybersecurity enthusiast from USA</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/89j8.gif">
+<img align="right" alt="Coding" width="400" src="89j8.gif">
+
 - 🔭 I’m currently working on [Encrypto-Pass](https://github.com/Shetshay/Encrypto-Pass)
 
-- 🌱 I’m currently learning **Google Cybersecurity Certificate**
+- 🌱 I’m currently studying for the **Google Cybersecurity Certificate**
 
 - 📫 How to reach me **and.ibrahim.rew@gmail.com**
 
