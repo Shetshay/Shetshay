@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew Attia Ibrahim</h1>
 <h3 align="center">A passionate cybersecurity enthusiast from USA</h3>
-<video autoplay loop muted playsinline width="400">
-  <source src="89j8.gif" type="video/gif">
-  Your browser does not support the video tag.
-</video>
+![Your GIF](89j8.gif)
 
 - 🔭 I’m currently working on [Encrypto-Pass](https://github.com/Shetshay/Encrypto-Pass)
 
