@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Python-Projects](https://github.com/Shetshay/Python_Projects) 
 
-- 🌱 I’m currently studying for the **Google Cybersecurity Certificate**
+- 🌱 I’m currently learning Python
 
 - 📫 How to reach me **and.ibrahim.rew@gmail.com**
 
-- 📄 Know about my experiences [https://shetshay.github.io/Resume/](https://shetshay.github.io/Resume/)
+<! –– - 📄 Know about my experiences [https://shetshay.github.io/Resume/](https://shetshay.github.io/Resume/) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
