@@ -7,4 +7,6 @@
 
 - 📫 How to reach me **and.ibrahim.rew@gmail.com**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shetshay)](https://github.com/shetshay/github-readme-stats)
+\
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shetshay&show_icons=true&theme=dark)](https://github.com/shetshay/github-readme-stats)
