@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **and.ibrahim.rew@gmail.com**
 
-<div style="margin-top: 20px;"></div> <!-- Adjust spacing -->
+&nbsp;
 
 <div align="center">
   <a href="https://github.com/shetshay/github-readme-stats">
