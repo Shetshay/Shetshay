@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Attia Ibrahim</h1>
-<img align="right" alt="Coding" width="400" src="89j8.gif" loop autoplay>
+<img align="right" alt="Coding" width="350" src="89j8.gif" loop autoplay>
 
 - 🔭 I’m currently working on [Python-Projects](https://github.com/Shetshay/Python_Projects) 
 
