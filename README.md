@@ -10,5 +10,3 @@
 <br />
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shetshay&show_icons=true&theme=dark)](https://github.com/shetshay/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats-g19h11gj0-shetshays-projects.vercel.app?user=shetshay&theme=dark)](https://git.io/streak-stats)
