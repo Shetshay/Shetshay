@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <br><br>    🔭 I’m currently working on Python-Projects and am a Masters student at ASU<br>
-<!--<img align="right" alt="Coding" width="275" src="89j8.gif" loop autoplay> --> <br>    🌱 I’m currently learning Python<br><br>    📫 How to reach me and.ibrahim.rew@gmail.com<br>
+<br>    🌱 I’m currently learning Python<br><br>    📫 How to reach me and.ibrahim.rew@gmail.com<br>
 
 
 
