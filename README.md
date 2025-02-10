@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br><br>    🔭 I’m currently working on Python-Projects and my Masters at ASU<br>
+<br><br>    🔭 I’m currently working on my pythonProjects repo and my Masters at ASU<br>
 <br>    🌱 I’m currently learning Python<br><br>    📫 How to reach me and.ibrahim.rew@gmail.com<br>
 
 
